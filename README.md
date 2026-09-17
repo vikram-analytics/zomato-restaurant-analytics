@@ -1,4 +1,4 @@
-# -zomato-restaurant-analytics
+# zomato-restaurant-analytics
 restaurant rating analysis using Python, and Power BI
 
 An analysis of 148 Bengaluru restaurants from Zomato, covering data cleaning, exploratory analysis, SQL querying, and a 2-page Power BI dashboard.
